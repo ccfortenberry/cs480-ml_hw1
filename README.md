@@ -1,1 +1,1 @@
-# cs480-ml_hw1
+# cs480-ml HW1: Decition Trees and Naive Bayes
